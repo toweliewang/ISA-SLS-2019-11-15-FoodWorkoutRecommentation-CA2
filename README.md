@@ -19,20 +19,6 @@ Members  : Alfred Tay Wenjie, Wang Zilong, Wong Yoke Keong
 ---
 ## SECTION 4 : USAGE GUIDE
 
-### Running notebooks on Google Colab
-
-The team has provided notebooks that are ready to run in Google Colab. Please see below for instructions.
-
-1. Go to https://github.com/yoke2/ISA-SLS-IS1FT-GRP-A22G-FoodAndWorkoutRecommender
-2. Click on the NotebooksAndData Folder
-3. Scroll down and you will see a table with Google Colab Link for each of the notebooks.
-4. Click on the 'Open in Colab' icon to view the Notebook in Google Colab Playground Mode
-5. To execute the notebook, you need to make a copy of it by clicking on the Copy to Drive icon and subsequently from the menu, click `Runtime > Run all`. Please note that you will need to have a Google Account to execute the notebook
-
-### Offline install
-
-The notebooks have been validated on Google Colab. For local run on Linux or Windows, please refer to the requirements below.  
-
 #### System Requirements
 1. OS: Ubuntu 18.04.3 LTS or Windows 10
 2. Python: 3.6.x or 3.7.x, preferably using the Anaconda Distribution
