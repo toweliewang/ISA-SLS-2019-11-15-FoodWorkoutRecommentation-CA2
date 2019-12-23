@@ -11,7 +11,7 @@ On the other hand, eating is also an activity which can bring happiness. We all 
 
 The proposed solution is an Intelligent Self-Learning System which recommends to the user a highly personalised daily eating and exercise plan which keeps the calories in check and maximises the user’s happiness from food consumption. The exercise plan is also being optimised such that it is just enough to burn away the input calories by an amount based on user’s weight loss goal. 
 
-![image]https://github.com/toweliewang/ISA-SLS-2019-11-15-FoodWorkoutRecommentation-CA2/blob/master/image/overview.png
+![image](https://github.com/toweliewang/ISA-SLS-2019-11-15-FoodWorkoutRecommentation-CA2/blob/master/image/overview.png)
 ---
 ## SECTION 3 : TEAM & MEMBERS
 Team Name: Team 6
