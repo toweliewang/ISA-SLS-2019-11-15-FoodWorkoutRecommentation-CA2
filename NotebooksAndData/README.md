@@ -1,0 +1,13 @@
+# Notebook Description
+
+| Notebook Name                                   	   | Description                                                                                                                |                                                                                                                                                                                                                                       
+|----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 01_GA_Food_Recommender_V1.0.ipynb                        | Food Recommendation using Genetic Algorithms                                                                               |
+| 02_EP_Food_Recommender_V1.0.ipynb                        | Food Recommendation using Evolutionary Programming                                                                         |
+| 03_ES_Food_Recommender_V1.0.ipynb                        | Food Recommendation using Evolution Strategy                                                                               |
+| 04_PSO_Food_Recommender_V1.0.ipynb                       | Food Recommendation using Particle Swarm Optimization (PSO)                                                                |
+| 05a_Food_Sequence_Recommender_V1.1.ipynb                 | Recommending Food Sequence using Reinforcement Learning (Q-Learning). Please note that this file takes a long time to run. |
+| 05a_Food_Sequence_Recommender_V1.1_Training_Results.html | Recommending Food Sequence using Reinforcement Learning - Training Results Output                                          |                                                                                                                                                           
+| 05b_Food_Sequence_Recommender_V1.1_Testing_Script.ipynb  | Recommending Food Sequence using Reinforcement Learning - Test Results                                                     |
+| 06_PSO_NN_Regressor_and_Workout_Planner_V1.0.ipynb       | Weight loss prediction using MLP trained with PSO and Workout Optimization using Differential Evolution                    |
+                                                                                                                                                                                                                                                    
